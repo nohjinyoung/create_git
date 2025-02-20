@@ -61,6 +61,10 @@ void Error_Handler(void);
 #define Trig_GPIO_Port GPIOE
 #define Echo_Pin GPIO_PIN_0
 #define Echo_GPIO_Port GPIOA
+#define Echo2_Pin GPIO_PIN_11
+#define Echo2_GPIO_Port GPIOD
+#define Trig2_Pin GPIO_PIN_12
+#define Trig2_GPIO_Port GPIOD
 
 /* USER CODE BEGIN Private defines */
 
